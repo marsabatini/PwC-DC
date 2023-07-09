@@ -11,11 +11,12 @@ package main.Desafio_03;
  * **** -> Output: bab
  *
  * @autor: Marco Sabatini
- * @version: 1.01
+ * @version: 1.02
  * @since: 08/07/2023
  **/
 
 
+import java.sql.SQLOutput;
 import java.util.*;
 
 public class Main {
@@ -74,6 +75,20 @@ public class Main {
                 }
             }
         }
+
+        Object maiorPalindromo = palindromos[0];
+        int tamanhoMaisComprido = maiorPalindromo.toString().length();
+
+        for (int i = 1; i < palindromos.length; i++) {
+            Object objetoAtual = palindromos[i];
+            int tamanhoAtual = objetoAtual.toString().length();
+
+            if (tamanhoAtual > tamanhoMaisComprido) {
+                maiorPalindromo = objetoAtual;
+                tamanhoMaisComprido = tamanhoAtual;
+            }
+        }
+        System.out.println("\t--> O maior palíndromo é: " + maiorPalindromo);
     }
 
     private static void conjPalindromos(String str, int min, int max, Set<String> conjunto) {
