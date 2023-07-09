@@ -14,7 +14,7 @@ Como não havia exigência para uma linguagem de programação específica, esco
 
 1. FAMILIARIDADE: juntamente com C, Java foi a primeira linguagem de programação por onde iniciei meus estudos. Naturalmente, tenho maior familiaridade com ela e um gosto especialmente positivo quando a utilizo.
 2. UTILIZAÇÃO: diversas instituições, incluindo financeiras, utilizam Java em suas soluções, o que amplia também meu horizonte de atuação profissional.
-3. VERSATILIDADE: apesar de verbosa, Java é uma linguagem extremamente versátio, possibilidando diversas soluções diferentes para os mesmos problemas, conforme a necessidade de seus desenvolvedores.
+3. VERSATILIDADE: apesar de verbosa, Java é uma linguagem extremamente versátil, possibilidando diversas soluções diferentes para os mesmos problemas, conforme a necessidade de seus desenvolvedores.
 4. COMUNIDADE: Java possui uma comunidade ativa e bem consolidada que está disposta a trocar informações, criar novidades e solucionar eventuais problemas.
 
 
