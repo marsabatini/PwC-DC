@@ -31,7 +31,7 @@ public class Main {
 
         Scanner enter = new Scanner(System.in);
 
-        System.out.println("DESAFIO 02");
+        System.out.println("DESAFIO 01");
         System.out.println("Reversão de palavras.\n");
         System.out.println("---------------------\n");
         System.out.print("Digite 1 para ver o exemplo ou digite sua frase: ");
