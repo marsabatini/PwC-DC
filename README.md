@@ -1,5 +1,5 @@
 # PwC-DC
-##Desafio de Código para PwC
+## Desafio de Código para PwC
 
 ```diff
 +   Empresa: PwC
@@ -9,8 +9,8 @@
 ![Java](https://img.shields.io/badge/Java-%23FFac45.svg?&style=for-the-badge&logo=java&logoColor=white&color=yellow)
 
 
-Este repositório possui 5 possíveis soluções desenvolvidas em Java para os desafios de código propostos pela PwC.
-Como não havia exigência para uma linguagem de programação específica, escolhi Java por três motivos básicos:
+Este repositório possui 5 possíveis soluções desenvolvidas em Java para o desafio de código proposto pela PwC.
+Como não havia exigência para uma linguagem de programação específica, escolhi Java por quatro motivos básicos:
 
 1. FAMILIARIDADE: juntamente com C, Java foi a primeira linguagem de programação por onde iniciei meus estudos. Naturalmente, tenho maior familiaridade com ela e um gosto especialmente positivo quando a utilizo.
 2. UTILIZAÇÃO: diversas instituições, incluindo financeiras, utilizam Java em suas soluções, o que amplia também meu horizonte de atuação profissional.
